@@ -32,11 +32,11 @@ Operation perform on dataset of tables are as follows:
 
 >Find the total number of records for each of the tables.
 
-Find the total number of distinct records for each of the keys.
+#Find the total number of distinct records for each of the keys.
 
-Check the null values in coloumn in the Users table.
+*Check the null values in coloumn in the Users table.
 
-Find the minimum, maximum, and average value.
+##Find the minimum, maximum, and average value.
 
 List the cities with the most reviews in descending order.
 
