@@ -31,6 +31,7 @@ xi. user table = 10000
 
 
 
+
 Operation perform on dataset of tables are as follows:
 
 >Find the total number of records for each of the tables.
