@@ -32,7 +32,7 @@ Operation perform on dataset of tables are as follows:
 
 >Find the total number of records for each of the tables.
 
-#Find the total number of distinct records for each of the keys.
+<Find the total number of distinct records for each of the keys.
 
 *Check the null values in coloumn in the Users table.
 
