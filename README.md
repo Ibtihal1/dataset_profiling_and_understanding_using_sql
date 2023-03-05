@@ -28,7 +28,7 @@ x. tip table = 10000
 xi. user table = 10000
 
 
-</br></br>
+</br>
 
 
 <strong>Operation perform on dataset of tables are as follows:</strong></br>
