@@ -2,7 +2,7 @@
 
 All the dataset must be loaded before profiling 
 
-Profile the data by finding the total number of records for each of the tables below:
+Profile the data on given tables below:
 
 i. Attribute table = 10000
 
@@ -30,7 +30,7 @@ xi. user table = 10000
 
 Operation perform on dataset of tables are as follows:
 
-Find the total number of records for each of the tables.
+>Find the total number of records for each of the tables.
 
 Find the total number of distinct records for each of the keys.
 
