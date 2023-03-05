@@ -2,6 +2,7 @@
 
 All the dataset must be loaded before profiling 
 
+
 Profile the data on given tables below:
 
 i. Attribute table = 10000
@@ -25,6 +26,8 @@ ix. review table = 10000
 x. tip table = 10000
 
 xi. user table = 10000
+
+
 
 
 
