@@ -1,6 +1,6 @@
 # dataset_profiling_and_understanding_using_sql
 
-All the dataset must be loaded before profiling </br>
+All the dataset must be loaded before profiling </br></br>
 
 
 <strong>Profile the data on given tables below:</strong></br>
@@ -28,7 +28,7 @@ x. tip table = 10000
 xi. user table = 10000
 
 
-</br></br></br>
+</br></br>
 
 
 
