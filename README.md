@@ -1,9 +1,9 @@
 # dataset_profiling_and_understanding_using_sql
 
-All the dataset must be loaded before profiling 
+All the dataset must be loaded before profiling </br>
 
 
-Profile the data on given tables below:
+<strong>Profile the data on given tables below:</strong></br>
 
 i. Attribute table = 10000
 
@@ -27,12 +27,12 @@ x. tip table = 10000
 
 xi. user table = 10000
 
-</br>
+
+</br></br></br>
 
 
 
-
-Operation perform on dataset of tables are as follows:
+<strong>Operation perform on dataset of tables are as follows:</strong></br>
 
 >Find the total number of records for each of the tables.
 
